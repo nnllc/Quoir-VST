@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptComboBox" id="cmbsamplemaps" value="7.0"/>
+    <Control type="ScriptComboBox" id="cmbsamplemaps1" value="6.0"/>
+    <Control type="ScriptComboBox" id="cmbsamplemaps2" value="5.0"/>
+    <Control type="ScriptComboBox" id="cmbsamplemaps3" value="8.0"/>
+    <Control type="ScriptSlider" id="Knob1" value="44.0"/>
+    <Control type="ScriptSlider" id="Knob2" value="1089.0"/>
+    <Control type="ScriptSlider" id="Knob3" value="3.100000381469727"/>
+    <Control type="ScriptSlider" id="Knob4" value="-27.0"/>
+    <Control type="ScriptSlider" id="Knob5" value="866.0"/>
+    <Control type="ScriptSlider" id="Knob6" value="928.0"/>
+    <Control type="ScriptSlider" id="Knob7" value="782.0"/>
+    <Control type="ScriptSlider" id="Knob8" value="808.0"/>
+    <Control type="ScriptSlider" id="Knob9" value="62.0"/>
+    <Control type="ScriptSlider" id="Knob10" value="1372.0"/>
+    <Control type="ScriptSlider" id="Knob11" value="2.100000381469727"/>
+    <Control type="ScriptSlider" id="Knob12" value="24.0"/>
+    <Control type="ScriptSlider" id="Knob13" value="20000.0"/>
+    <Control type="ScriptSlider" id="Knob14" value="1801.0"/>
+    <Control type="ScriptSlider" id="Knob15" value="85.0"/>
+    <Control type="ScriptSlider" id="Knob16" value="1245.0"/>
+    <Control type="ScriptSlider" id="Knob19" value="6.500000476837158"/>
+    <Control type="ScriptSlider" id="Knob25" value="-100.0"/>
+    <Control type="ScriptSlider" id="Knob33" value="20000.0"/>
+    <Control type="ScriptSlider" id="Knob36" value="1703.0"/>
+    <Control type="ScriptSlider" id="Knob37" value="96.0"/>
+    <Control type="ScriptSlider" id="Knob38" value="1372.0"/>
+    <Control type="ScriptSlider" id="Knob39" value="5.40000057220459"/>
+    <Control type="ScriptSlider" id="Knob40" value="100.0"/>
+    <Control type="ScriptComboBox" id="Waveform1" value="2.0"/>
+    <Control type="ScriptComboBox" id="Waveform2" value="6.0"/>
+    <Control type="ScriptSlider" id="Knob41" value="-73.0"/>
+    <Control type="ScriptSlider" id="Knob42" value="1.0"/>
+    <Control type="ScriptSlider" id="Knob43" value="0.0"/>
+    <Control type="ScriptSlider" id="Knob44" value="0.5"/>
+    <Control type="ScriptSlider" id="Knob45" value="-20.84000015258789"/>
+    <Control type="ScriptSlider" id="Knob46" value="0.0"/>
+    <Control type="ScriptSlider" id="Knob47" value="0.0"/>
+    <Control type="ScriptSlider" id="Knob48" value="86.0"/>
+    <Control type="ScriptSlider" id="Knob49" value="461.0899963378906"/>
+    <Control type="ScriptSlider" id="Knob50" value="261.9599914550781"/>
+    <Control type="ScriptSlider" id="Gainknb" value="-12.0"/>
+    <Control type="ScriptSlider" id="WidthFX" value="135.1999969482422"/>
+    <Control type="ScriptSlider" id="FeelFX" value="4.700000286102295"/>
+    <Control type="ScriptButton" id="Button1" value="1.0"/>
+    <Control type="ScriptButton" id="Button2" value="1.0"/>
+    <Control type="ScriptButton" id="Button3" value="1.0"/>
+    <Control type="ScriptButton" id="Button4" value="1.0"/>
+    <Control type="ScriptSlider" id="ArtFX" value="9.600000381469727"/>
+    <Control type="ScriptSlider" id="DelayFX" value="0.3700000047683716"/>
+    <Control type="ScriptSlider" id="WavesFX" value="0.1800000071525574"/>
+    <Control type="ScriptSlider" id="Knob17" value="21.0"/>
+    <Control type="ScriptSlider" id="Knob18" value="20000.0"/>
+    <Control type="ScriptSlider" id="Knob20" value="0.3499999940395355"/>
+    <Control type="ScriptSlider" id="Knob21" value="0.3700000047683716"/>
+    <Control type="ScriptSlider" id="Knob22" value="0.4799999892711639"/>
+    <Control type="ScriptSlider" id="Knob23" value="20.0"/>
+    <Control type="ScriptSlider" id="Knob24" value="20000.0"/>
+    <Control type="ScriptSlider" id="Knob26" value="6.0"/>
+    <Control type="ScriptSlider" id="Knob27" value="5.0"/>
+    <Control type="ScriptSlider" id="Knob28" value="0.6200000047683716"/>
+    <Control type="ScriptSlider" id="Knob29" value="0.6299999952316284"/>
+    <Control type="ScriptSlider" id="Knob30" value="20.0"/>
+    <Control type="ScriptSlider" id="Knob31" value="20000.0"/>
+    <Control type="ScriptSlider" id="Knob32" value="6.0"/>
+    <Control type="ScriptSlider" id="Knob34" value="301.0"/>
+    <Control type="ScriptSlider" id="Knob35" value="1000.0"/>
+    <Control type="ScriptSlider" id="FeelFreq" value="469.0"/>
+    <Control type="ScriptSlider" id="ArtFreq" value="2013.0"/>
+    <Control type="ScriptSlider" id="FeelQ" value="0.699999988079071"/>
+    <Control type="ScriptSlider" id="Art Q" value="1.049999952316284"/>
+  </Content>
+  <MidiAutomation/>
+  <MPEData Enabled="0"/>
+</Preset>

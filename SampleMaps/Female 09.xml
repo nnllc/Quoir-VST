@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Female 09" RRGroupAmount="1.00000000" MicPositions=";" SaveMode="2">
+  <sample Root="72" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Female 09 - C4.wav" Duplicate="0" SampleRate="48000.0"
+          SampleEnd="1008000" MonolithOffset="0" MonolithLength="1011712"/>
+</samplemap>
